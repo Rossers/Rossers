@@ -1,18 +1,12 @@
-# Hi, I'm Ross. 👋
+## Hi, I'm Ross. 👋
 
 Backend engineer with 5+ years of experience building services & tools for AAA & AA multiplayer games.
-I specialize in APIs, databases, analytics pipelines, and live service infrastructure.
+I specialize in live service infrastructure: APIs, services, databases, analytics, and tools.
 
-## What I Do
-
-- Build reliable APIs, services and tools.
-- Design scalable backend architectures.
-- Optimize data systems and analytics pipelines.
-- Support live service games and multiplayer systems.
-
-## Tech Stack
+## My Typical Tech
 
 - **Languages**: PHP, Go, Python, C#, JavaScript, C++, SQL
 - **Databases**: MongoDB, SQL
 - **Cloud & DevOps**: AWS, Docker, Kubernetes, Linux 
-- **Tools & Engines**: Unreal Engine 4 & 5, Unity, Godot, Git, Perforce
+- **Tools**: Git, Perforce, Redash
+- **Game Engines**: Unreal Engine 4 & 5, Unity, Godot
