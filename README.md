@@ -5,7 +5,7 @@ I specialize in APIs, databases, analytics pipelines, and live service infrastru
 
 ## What I Do
 
-- Build reliable APIs and services.
+- Build reliable APIs, services and tools.
 - Design scalable backend architectures.
 - Optimize data systems and analytics pipelines.
 - Support live service games and multiplayer systems.
@@ -13,13 +13,6 @@ I specialize in APIs, databases, analytics pipelines, and live service infrastru
 ## Tech Stack
 
 - **Languages**: PHP, Go, Python, C#, JavaScript, C++, SQL
-- **Backend & Infrastructure**: REST APIs, distributed systems, microservices, authentication systems
 - **Databases**: MongoDB, SQL
 - **Cloud & DevOps**: AWS, Docker, Kubernetes, Linux 
 - **Tools & Engines**: Unreal Engine 4 & 5, Unity, Godot, Git, Perforce
-
-## 📫 Contact
-
-- 🌐 Website: https://rossmetcalf.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rossmetcalf/
-- ✉️ Email: (please ask)
